@@ -1,0 +1,58 @@
+/* 		Global styles	 		*/
+html
+{
+	background-color: black;
+	overflow-y: scroll;
+	width: 100%;
+}
+
+body
+{
+	background-color: black;
+	height: 100%;
+	position: static;
+}
+
+footer
+{
+	background-color: black;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+}
+#activeNav, #navbar
+{
+	background-color: black;
+}
+
+/*                INDEX.PHP                	*/
+#crslImg
+{
+	background-color: black;
+	height: 400px;
+}
+
+#crslBtn
+{
+	color: black;
+}
+
+#productImg
+{
+	width:20%;
+	height:20%;
+}
+
+/*		LOGINREG.PHP			*/
+#login, #register
+{
+}
+
+
+/*		SHOP.PHP			*/
+
+#shopProduct
+{
+	background-color: black;
+	color: white;
+}
