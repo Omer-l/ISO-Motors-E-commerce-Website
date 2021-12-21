@@ -1,0 +1,92 @@
+/* 		Global styles	 		*/
+html
+{
+	background-color: black;
+	overflow-y: scroll;
+	width: 100%;
+}
+
+body
+{
+	background-color: black;
+	height: 100%;
+	position: static;
+}
+
+footer
+{
+	position: static;
+	bottom: 0;
+	padding-right: 300px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+#footerCol1, #footerCol2 #footerCol3
+{
+	text-align: center;
+}
+
+#activeNav, #navbar
+{
+	background-color: black;
+}
+
+/*                INDEX.PHP                	*/
+#crslImg
+{
+	background-color: black;
+	height: 400px;
+}
+
+#crslBtn
+{
+	color: black;
+}
+
+#productImg
+{
+	width:20%;
+	height:20%;
+}
+
+#homeLogo
+{
+	width: 300px;
+	height 400px;
+}
+/*		LOGINREG.PHP			*/
+#login, #register
+{
+}
+
+
+/*		SHOP.PHP			*/
+
+#shopProduct
+{
+	background-color: black;
+	color: white;
+}
+
+#shopItem
+{
+	width: 300px;
+	height: 200px;
+}
+
+/*		CART.PHP			*/
+  .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
